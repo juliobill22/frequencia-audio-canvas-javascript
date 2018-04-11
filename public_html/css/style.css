@@ -1,0 +1,18 @@
+/* 
+    Created on : 16/11/2017, 16:13:32
+    Author     : juliobill
+*/
+
+* {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+canvas {
+    width: 100%;
+}
+
+#div_frequencybinario {
+    word-wrap: break-word;
+    font-size: 20px;
+}
